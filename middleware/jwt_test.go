@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dgrijalva/jwt-go"
-	"github.com/labstack/echo/v4"
+	"github.com/dgrijalva/jwt-go/v4"
+	"github.com/AndreasWolny/echo/v4"
 	"github.com/stretchr/testify/assert"
 )
 

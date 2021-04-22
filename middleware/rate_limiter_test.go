@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/labstack/echo/v4"
+	"github.com/AndreasWolny/echo/v4"
 	"github.com/labstack/gommon/random"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/time/rate"

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/labstack/echo/v4"
+	"github.com/AndreasWolny/echo/v4"
 )
 
 type (
